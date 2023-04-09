@@ -7,13 +7,13 @@
    3) Now open This link [https://github.com/Bhavik002/portfolio-main] and clone Github Repository...
       
       # Follow this simple steps to clone Repository.
-      1. open [https://github.com/20dcs/portfolio-template] 
-         ![Screenshot (9)](https://github.com/20dcs/portfolio-template/blob/main/components/Screenshots/Screenshot5.png)
+      1. open [https://github.com/Bhavik002/portfoliomaker-frontend-main] 
+        
       2. Click on 'code' button and copy that https link.
       3. Now open VsCode -> Open folder in which you have to clone Repository.
       3. Open New Terminal from Terminal in VsCode.
       4. Write below command
-         -> git clone https://github.com/20dcs/portfolio-template.git
+         -> git clone https://github.com/Bhavik002/portfoliomaker-frontend-main
       5. After cloning Repository, Open portfolio-template folder in VsCode -> Open New Terminal and write below command
          -> npm i
 
